@@ -11,6 +11,6 @@ public class Phone {
 	}
 	
 	public void trucar (String phoneNumber) {
-		System.out.println("Trucant al número " + phoneNumber);
+		System.out.println("Trucant al nÃºmero " + phoneNumber);
 	}
 }

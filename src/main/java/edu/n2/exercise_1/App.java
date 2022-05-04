@@ -9,5 +9,4 @@ public class App {
 		smartPhone.setAlarm();
 		smartPhone.toPhotograph();
 	}
-
 }
