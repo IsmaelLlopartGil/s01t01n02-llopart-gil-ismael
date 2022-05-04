@@ -6,10 +6,12 @@ public class SmartPhone extends Phone implements Camera, Clock  {
 		super(trademark, model);
 	}
 
+	@Override
 	public void toPhotograph() {
 		System.out.println("S’està fent una foto.");
 	}
 
+	@Override
 	public void setAlarm() {
 		System.out.println("Està sonant l’alarma.");
 	}
